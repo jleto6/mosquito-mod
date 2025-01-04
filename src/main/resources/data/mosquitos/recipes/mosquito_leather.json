@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "mosquitos:mosquito"
+    }
+
+
+  },
+  "result": {
+    "item": "mosquitos:mosquito_leather"
+  }
+}

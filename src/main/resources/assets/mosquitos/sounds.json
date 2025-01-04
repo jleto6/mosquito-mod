@@ -1,0 +1,8 @@
+{
+  "classic_hurt": {
+    "subtitles": "sounds.minecraftplus.classic_hurt",
+    "sounds": [
+      "minecraftplus:classic_hurt"
+    ]
+  }
+}

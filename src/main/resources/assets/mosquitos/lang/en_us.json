@@ -1,0 +1,41 @@
+{
+
+
+  "creativetab.mosquitos": "Mosquitos",
+
+
+
+  "item.mosquitos.mosquito": "Mosquito",
+  "item.mosquitos.cooked_mosquito": "Cooked Mosquito",
+  "item.mosquitos.mosquito_spawn_egg": "Mosquito Spawn Egg",
+  "item.mosquitos.mosquito_leather": "Mosquito Leather",
+  "item.mosquitos.blood_bucket": "Blood Bucket",
+  "item.mosquitos.mosquito_leather_boots": "Mosquito Leather Boots",
+  "item.mosquitos.mosquito_spray": "Mosquito Spray",
+  "item.mosquitos.ebola_vaccine": "Ebola Vaccine",
+  "item.mosquitos.rubber": "Rubber",
+  "item.mosquitos.hazmat_helmet": "Hazmat Helmet",
+  "item.mosquitos.hazmat_vest": "Hazmat Vest",
+  "item.mosquitos.hazmat_pants": "Hazmat Pants",
+  "item.mosquitos.hazmat_boots": "Hazmat Boots",
+
+
+
+
+  "effect.mosquitos.bleed": "Bleeding",
+  "effect.mosquitos.ebola": "Ebola",
+  "effect.mosquitos.repellent": "Mosquito Repellent",
+
+
+
+
+
+
+  "sounds.mosquitos.classic_hurt": "Classic Hurt Sound",
+
+  "entity.mosquitos.human": "Human"
+
+
+
+
+}

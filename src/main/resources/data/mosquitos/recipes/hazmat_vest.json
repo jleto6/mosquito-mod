@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "mosquitos:rubber"
+    },
+
+  "G": {
+    "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "X X",
+    "XGX",
+    "XXX"
+  ],
+  "result": {
+    "item": "mosquitos:hazmat_vest"
+  }
+}
