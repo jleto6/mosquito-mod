@@ -1,6 +1,6 @@
 # 🦟 Mosquito Mod
 
-A Minecraft Forge mod developed in 2023 that introduces mosquitos as custom hostile mobs. This project involved working within the existing Minecraft 1.8.9 codebase using the Forge modding framework, focusing on extending game functionality through entity creation, AI behavior, and integration with the game's world generation systems.
+A Minecraft Forge mod that introduces mosquitos as custom hostile mobs. This project involved working within the existing Minecraft codebase using the Forge modding framework, focusing on extending game functionality through entity creation, AI behavior, and integration with the game's world generation systems.
 
 ## Features
 
